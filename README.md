@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL_HERE" alt="Jacob's Profile Image" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/58905198?s=96&v=4" alt="Jacob's Profile Image" width="200" height="200">
 </p>
 
 # Hello, I'm Nixon 👋
