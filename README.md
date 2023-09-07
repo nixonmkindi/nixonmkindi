@@ -5,7 +5,7 @@
 
 # Hello, I'm Nixon 👋
 
-I'm a passionate Software Engineer with a keen interest in building efficient and scalable systems. Here's a little about me:
+I'm passionate about software development and DevOps, with a keen interest in building efficient and scalable systems. Here's a little about me
 
 - 🔭 I’m currently working on **Research Information Management System (RIMS)** and **DIT's SOMA**.
 - 🌱 I’m constantly learning and exploring new technologies like **Rust**, **Kubernetes**, and **Ansible** to stay at the cutting edge of development.
