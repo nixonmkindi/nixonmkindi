@@ -10,7 +10,7 @@ I'm passionate about software development and DevOps, with a keen interest in bu
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=nixonmkindi&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- GitHub Trends -->
