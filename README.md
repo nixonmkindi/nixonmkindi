@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/58905198?s=96&v=4" alt="Jacob's Profile Image" width="200" height="200">
-</p>
-
 # Hello, I'm Nixon 👋
 
 I'm passionate about software development and DevOps, with a keen interest in building efficient and scalable systems. Here's a little about me
