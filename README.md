@@ -1,4 +1,4 @@
-# Hello, I'm Nixon 👋
+# Hello, I'm Nixon 👋🏾
 
 I'm passionate about software development and DevOps, with a keen interest in building efficient and scalable systems. Here's a little about me
 
