@@ -2,7 +2,7 @@
 
 I'm passionate about software development and DevOps, with a keen interest in building efficient and scalable systems. Here's a little about me
 
-- 🔭 I’m currently working on **School Quality Assurance System**, **EASTRIP GRM App** and **DIT's Paperles Systems**.
+- 🔭 I’m currently working on **School Quality Assurance System**, **EASTRIP GRM App** and **DIT's Paperless Systems**.
 - 🌱 I’m constantly learning and exploring new technologies like **Rust**, **Kubernetes**, and **Ansible** to stay at the cutting edge of development.
 - 💬 Ask me about **Web Application Development**, **Mobile Application Development**, and **DevOps**.
 
