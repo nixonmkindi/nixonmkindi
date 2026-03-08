@@ -1,90 +1,88 @@
 # Hello, I'm Nixon 👋🏾
 
-Backend Software Developer focused on building reliable and scalable systems.  
-I enjoy designing clean APIs, building backend services, and deploying production systems.
+Software developer experienced across the full software development lifecycle, from system design and backend development to frontend interfaces and deployment of production systems.
 
-Most of my work involves building **backend services using Go**, designing databases, and deploying applications on Linux servers.
+I work mainly on **backend systems using Go**, building APIs, designing databases, and deploying reliable systems running in production environments.
 
 ---
 
-## ⚙️ Technologies I Work With
+# 🛠 Tech Stack
 
 ### Backend
-- **Go (Golang)**
-- **Java (Spring Boot)**
-- **Python**
+<p>
+<img src="https://skillicons.dev/icons?i=go,java,python,nodejs" />
+</p>
 
 ### Frontend
-- **React**
-- **Angular**
-- **TypeScript**
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,typescript,html,css" />
+</p>
 
 ### Mobile
-- **Flutter**
-- **Dart**
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
 ### Databases
-- PostgreSQL
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-### Infrastructure & DevOps
-- Linux / Ubuntu
-- Docker
-- Nginx
-- GitLab CI/CD
+### DevOps / Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,gitlab" />
+</p>
 
 ---
 
-## 🚀 Systems I've Contributed To
+# 🚀 Production Systems I've Contributed To
 
-Below are production systems where I contributed mainly to the **backend services built with Go**.
-
-### NISSTI Research Portal
+### National Information System for Science, Technology and Innovation (NISSTI)
 https://nissti.costech.or.tz/
 
-Research and innovation management system used by COSTECH.
+National platform for managing science, technology and innovation information in Tanzania.
 
 ---
 
 ### Research Clearance System
 https://rclearance.costech.or.tz/
 
-Platform used to manage research clearance applications and approvals.
+System used by COSTECH to manage research clearance applications and approvals.
 
 ---
 
-### DSTI Platform
+### Digital Science, Technology and Innovation (DSTI) Platform
 https://dsti.elimu.moe.go.tz/
 
-System supporting science and technology development initiatives.
+Platform for collecting science, technology and innovation (STI) data from institutions across Tanzania.
 
 ---
 
-### SQAS System
+### School Quality Assurance System (SQAS)
 https://sqas.moe.go.tz/
 
-Institutional quality assurance management system.
+System designed to improve monitoring and evaluation of school performance across Tanzania’s education sector.
 
 ---
 
-### PME Platform
+### PME Monitoring Platform
 https://pme.iucea.org/
 
-Monitoring and evaluation platform for higher education institutions.
+Monitoring and evaluation platform supporting higher education institutions.
 
 ---
 
-## 🔧 What I Focus On
+# ⚙️ What I Focus On
 
 - Designing **scalable backend APIs**
 - Building systems using **Golang and modern web technologies**
 - Database schema design and optimization
 - Deploying and managing **Linux-hosted applications**
-- Writing clean, maintainable backend code
+- Writing clean, maintainable software
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Rust
 - Kubernetes
@@ -92,14 +90,14 @@ Monitoring and evaluation platform for higher education institutions.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nixon-mkindi-69493717b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile.
+⭐ Thanks for visiting my profile!
