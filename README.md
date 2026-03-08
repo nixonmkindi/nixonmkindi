@@ -10,7 +10,7 @@ I work mainly on **backend systems using Go**, building APIs, designing database
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=go,java,python,nodejs" />
+<img src="https://skillicons.dev/icons?i=go,java,python" />
 </p>
 
 ### Frontend
