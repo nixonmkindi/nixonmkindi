@@ -68,7 +68,7 @@ System designed to improve monitoring and evaluation of school performance acros
 ### PME Monitoring Platform
 https://pme.iucea.org/
 
-Monitoring and evaluation platform supporting higher education institutions.
+Monitoring and evaluation platform supporting TVETs in East Africa.
 
 ---
 
